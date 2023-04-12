@@ -17,12 +17,12 @@ body {
   background: radial-gradient(
     farthest-corner at 0px 0px,
     #fff,
-    rgb(176, 130, 176)
+    rgb(130, 176, 138)
   );
   background-attachment: fixed;
   /* height: 100vh; */
   color: black;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .app {
@@ -101,6 +101,7 @@ footer a {
 }
 
 /* BUTTONS */
+
 .link-buttons {
   position: absolute;
   bottom: 0;
@@ -128,10 +129,8 @@ footer a {
   border-radius: 1rem;
   border: 0.1rem purple solid;
   text-decoration: none;
-
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease 0s;
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -164,6 +163,7 @@ i {
   font-size: 2rem;
   text-align: center;
 }
+
 .caption h2 {
   font-size: 1.6rem;
   text-align: center;
@@ -214,44 +214,36 @@ i {
     height: 33rem;
     position: relative;
   }
-
   .image-caption {
     opacity: 1;
     background-color: transparent;
   }
-
   .caption {
     position: absolute;
     width: 95%;
     font-weight: 400;
     color: black;
   }
-
   .caption h1 {
     text-align: left;
   }
-
   .caption h2 {
     font-weight: 400;
   }
-
   .caption p {
     line-height: 2.5rem;
   }
-
   .caption .title {
     height: 10rem;
     width: 20rem;
     margin-left: 13rem;
   }
-
   .title {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
   }
-
   .link-buttons a {
     color: #fff;
     font-weight: 400;
@@ -260,12 +252,10 @@ i {
     color: #fff;
     /* transform: translateY(-0.5rem); */
   }
-
   .link-buttons a:hover {
     transform: none;
     box-shadow: none;
   }
-
   #project img {
     width: 12rem;
     height: 10rem;
@@ -274,7 +264,6 @@ i {
     object-fit: cover;
     margin: 1rem;
   }
-
   footer {
     font-size: 1.6rem;
   }
