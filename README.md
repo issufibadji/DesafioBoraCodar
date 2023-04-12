@@ -1,8 +1,8 @@
 # DesafioBoraCodar
-Projetos boraCodar da Rocketseat
+
 
 <p align="center">
-    Projetos #boraCodar da Rocketseat <br>
+   Projetos boraCodar da Rocketseat <br>
     <a href="https://boracodar.dev">Acesse o desafio desta semana clicando aqui</a><br>
     <br><table>
     <thead>
