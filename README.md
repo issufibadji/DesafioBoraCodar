@@ -126,21 +126,21 @@
         </tr>
             <tr>
             <td>15</td>
-            <td><a href="desafio14-upload">Pricing Table</a></td>
+            <td><a href="desafio15-upload">Pricing Table</a></td>
             <td>19/04/23</td>
-            <td align="center" ><a href="desafio14-upload"><img width="300px" src="desafio14-upload/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="desafio15-upload"><img width="300px" src="desafio15-upload/.github/preview.jpg" /></a></td>
         </tr>
             <tr>
             <td>16</td>
-            <td><a href="desafio14-upload">Um componente de upload</a></td>
+            <td><a href="desafio16-upload">Um componente de upload</a></td>
             <td>26/04/23</td>
-            <td align="center" ><a href="desafio16-upload"><img width="300px" src="desafio14-upload/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="desafio16-upload"><img width="300px" src="desafio16-upload/.github/preview.jpg" /></a></td>
         </tr>
             <tr>
             <td>17</td>
             <td><a href="desafio17-upload">Uma página de contatos</a></td>
-            <td>12/04/23</td>
-            <td align="center" ><a href="desafio17-upload"><img width="300px" src="desafio14-upload/.github/preview.jpg" /></a></td>
+            <td>03/05/23</td>
+            <td align="center" ><a href="desafio17-upload"><img width="300px" src="desafio17-upload/.github/preview.jpg" /></a></td>
         </tr>
     </tbody>
 </table></p>
