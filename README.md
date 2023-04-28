@@ -126,15 +126,15 @@
         </tr>
             <tr>
             <td>15</td>
-            <td><a href="desafio15-upload">Pricing Table</a></td>
+            <td><a href="desafio15-pricing-table">Pricing Table</a></td>
             <td>19/04/23</td>
-            <td align="center" ><a href="desafio15-upload"><img width="300px" src="desafio15-upload/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="desafio15-pricing-table"><img width="300px" src="desafio15-pricing-table/.github/preview.jpg" /></a></td>
         </tr>
             <tr>
             <td>16</td>
-            <td><a href="desafio16-upload">Um componente de upload</a></td>
+            <td><a href="desafio16-contact-page">Um componente de upload</a></td>
             <td>26/04/23</td>
-            <td align="center" ><a href="desafio16-upload"><img width="300px" src="desafio16-upload/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="desafio16-contact-page"><img width="300px" src="ddesafio16-contact-page/.github/preview.jpg" /></a></td>
         </tr>
             <tr>
             <td>17</td>
