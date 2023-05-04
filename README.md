@@ -132,15 +132,15 @@
         </tr>
             <tr>
             <td>16</td>
-            <td><a href="desafio16-contact-page">Um componente de upload</a></td>
+            <td><a href="desafio16-contact-page">Contact page</a></td>
             <td>26/04/23</td>
-            <td align="center" ><a href="desafio16-contact-page"><img width="300px" src="ddesafio16-contact-page/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="desafio16-contact-page"><img width="300px" src="desafio16-contact-page/.github/preview.jpg" /></a></td>
         </tr>
             <tr>
             <td>17</td>
-            <td><a href="desafio17-upload">Uma página de contatos</a></td>
-            <td>03/05/23</td>
-            <td align="center" ><a href="desafio17-upload"><img width="300px" src="desafio17-upload/.github/preview.jpg" /></a></td>
+            <td><a href="desafio17-date-picker">Date picker</a></td>
+            <td>00/00/23</td>
+            <td align="center" ><a href="desafio17-date-picker"><img width="300px" src="desafio17-date-picker/.github/preview.jpg" /></a></td>
         </tr>
     </tbody>
 </table></p>
