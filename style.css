@@ -16,8 +16,8 @@ body {
   /* background: radial-gradient(135deg, #cbc3e3 60%, #fff) no-repeat; */
   background: radial-gradient(
     farthest-corner at 0px 0px,
-    #fff,
-    rgb(130, 176, 138)
+    #240909,
+    rgb(39, 92, 48)
   );
   background-attachment: fixed;
   /* height: 100vh; */
@@ -35,11 +35,11 @@ body {
   justify-content: space-between;
 }
 
-.header{
+.header {
   font-weight: 400;
   text-align: center;
-  margin-top:5ch;
-  color: darkblue;
+  margin-top: 5ch;
+  color: rgb(236, 236, 241);
 }
 
 .projects-list {
@@ -273,5 +273,6 @@ i {
   }
   footer {
     font-size: 1.6rem;
+    color: rgb(236, 236, 241);
   }
 }
