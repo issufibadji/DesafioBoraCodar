@@ -142,5 +142,12 @@
             <td>00/00/23</td>
             <td align="center" ><a href="desafio17-date-picker"><img width="300px" src="desafio17-date-picker/.github/preview.jpg" /></a></td>
         </tr>
+              </tr>
+            <tr>
+            <td>18</td>
+            <td><a href="desafio18-card-star-wars">Card star wars</a></td>
+            <td>00/00/23</td>
+            <td align="center" ><a href="desafio18-date-picker"><img width="300px" src="desafio18-card-star-wars/.github/preview.jpg" /></a></td>
+        </tr>
     </tbody>
 </table></p>
